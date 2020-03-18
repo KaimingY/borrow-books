@@ -1,0 +1,22 @@
+{
+  "name": "borrow-books",
+  "version": "1.0.0",
+  "description": "Borrow books for free",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KaimingY/borrow-books.git"
+  },
+  "keywords": [
+    "react、webpack"
+  ],
+  "author": "KaimingY",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KaimingY/borrow-books/issues"
+  },
+  "homepage": "https://github.com/KaimingY/borrow-books#readme"
+}
